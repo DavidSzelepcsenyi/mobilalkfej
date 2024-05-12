@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422319554718",
+    "project_id": "mobilalkfej-55132",
+    "storage_bucket": "mobilalkfej-55132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422319554718:android:ff0929b9aa4340b8697b8f",
+        "android_client_info": {
+          "package_name": "com.example.docappli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxaC7f50d6nOhCknO_RZeOmyp5e6x_xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
